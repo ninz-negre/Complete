@@ -6,7 +6,7 @@ import os
 import sys
 import logging
 
-# Configure logging
+# Configure logging latest ninz
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
