@@ -4,6 +4,17 @@ import time
 import json
 import os
 import sys
+import logging
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('notifier.log'),
+        logging.StreamHandler()
+    ]
+)
 
 # Set UTF-8 encoding for standard output and error
 if hasattr(sys.stdout, 'reconfigure'):
