@@ -1,0 +1,42 @@
+2025-03-21 09:08:52,376 - WARNING - [aitable_notifier.py:33] - winotify not available (No module named 'winotify'), falling back to PowerShell notifications
+2025-03-21 09:08:52,379 - INFO - [aitable_notifier.py:54] - Found icon at: C:\Users\ninzn\Desktop\Complete\aibroker-notif\ka.png
+2025-03-21 09:08:52,379 - INFO - [aitable_notifier.py:238] - Starting AITable Monitor...
+2025-03-21 09:08:52,380 - ERROR - [aitable_notifier.py:80] - Failed to send winotify notification: name 'Notification' is not defined
+2025-03-21 09:08:53,513 - INFO - [aitable_notifier.py:148] - Successfully fetched record count: 2
+2025-03-21 09:08:53,516 - INFO - [aitable_notifier.py:163] - Successfully saved record count: 2
+2025-03-21 09:09:03,520 - INFO - [aitable_notifier.py:207] - Checking for new records...
+2025-03-21 09:09:03,521 - INFO - [aitable_notifier.py:176] - Successfully loaded last record count: 2
+2025-03-21 09:09:04,604 - INFO - [aitable_notifier.py:148] - Successfully fetched record count: 2
+2025-03-21 09:09:14,609 - INFO - [aitable_notifier.py:207] - Checking for new records...
+2025-03-21 09:09:14,610 - INFO - [aitable_notifier.py:176] - Successfully loaded last record count: 2
+2025-03-21 09:09:15,761 - INFO - [aitable_notifier.py:148] - Successfully fetched record count: 3
+2025-03-21 09:09:15,762 - INFO - [aitable_notifier.py:216] - Found 1 new records!
+2025-03-21 09:09:15,782 - INFO - [aitable_notifier.py:118] - Successfully sent PowerShell notification: 🔔 AI Broker Alert!
+2025-03-21 09:09:15,783 - INFO - [aitable_notifier.py:163] - Successfully saved record count: 3
+2025-03-21 09:09:25,787 - INFO - [aitable_notifier.py:207] - Checking for new records...
+2025-03-21 09:09:25,787 - INFO - [aitable_notifier.py:176] - Successfully loaded last record count: 3
+2025-03-21 09:09:26,935 - INFO - [aitable_notifier.py:148] - Successfully fetched record count: 3
+2025-03-21 09:09:36,940 - INFO - [aitable_notifier.py:207] - Checking for new records...
+2025-03-21 09:09:36,940 - INFO - [aitable_notifier.py:176] - Successfully loaded last record count: 3
+2025-03-21 09:09:38,086 - INFO - [aitable_notifier.py:148] - Successfully fetched record count: 3
+2025-03-21 09:09:43,246 - INFO - [aitable_notifier.py:259] - Monitoring stopped by user
+2025-03-21 09:11:34,537 - WARNING - [aitable_notifier.py:33] - winotify not available (No module named 'winotify'), falling back to PowerShell notifications
+2025-03-21 09:11:34,542 - INFO - [aitable_notifier.py:54] - Found icon at: C:\Users\ninzn\Desktop\Complete\aibroker-notif\ka.png
+2025-03-21 09:11:34,542 - INFO - [aitable_notifier.py:238] - Starting AITable Monitor...
+2025-03-21 09:11:34,542 - ERROR - [aitable_notifier.py:80] - Failed to send winotify notification: name 'Notification' is not defined
+2025-03-21 09:11:35,640 - INFO - [aitable_notifier.py:148] - Successfully fetched record count: 3
+2025-03-21 09:11:35,642 - INFO - [aitable_notifier.py:163] - Successfully saved record count: 3
+2025-03-21 09:11:45,646 - INFO - [aitable_notifier.py:207] - Checking for new records...
+2025-03-21 09:11:45,647 - INFO - [aitable_notifier.py:176] - Successfully loaded last record count: 3
+2025-03-21 09:11:46,791 - INFO - [aitable_notifier.py:148] - Successfully fetched record count: 3
+2025-03-21 09:11:54,467 - INFO - [aitable_notifier.py:259] - Monitoring stopped by user
+2025-03-21 09:12:08,392 - INFO - [aitable_notifier.py:30] - Successfully initialized winotify for Windows 11 notifications
+2025-03-21 09:12:08,393 - INFO - [aitable_notifier.py:54] - Found icon at: C:\Users\ninzn\Desktop\Complete\aibroker-notif\ka.png
+2025-03-21 09:12:08,395 - INFO - [aitable_notifier.py:238] - Starting AITable Monitor...
+2025-03-21 09:12:08,407 - INFO - [aitable_notifier.py:77] - Successfully sent winotify notification: AI Broker Started
+2025-03-21 09:12:09,600 - INFO - [aitable_notifier.py:148] - Successfully fetched record count: 3
+2025-03-21 09:12:09,602 - INFO - [aitable_notifier.py:163] - Successfully saved record count: 3
+2025-03-21 09:12:19,610 - INFO - [aitable_notifier.py:207] - Checking for new records...
+2025-03-21 09:12:19,611 - INFO - [aitable_notifier.py:176] - Successfully loaded last record count: 3
+2025-03-21 09:12:20,698 - INFO - [aitable_notifier.py:148] - Successfully fetched record count: 3
+2025-03-21 09:12:28,467 - INFO - [aitable_notifier.py:259] - Monitoring stopped by user
